@@ -2,4 +2,4 @@ An operating sytem's function is to run applications. It does this by saving inf
 When you open it again, it saves your progress. 
 Another function of an operating system could be to run an application like a camera.
 It uses the hardware on the phone to input data from that hardware.
-That hardware is a camera, inputting data such as pictures onto the system.
+That hardware is a camera, inputting data such as pictures onto the system..
