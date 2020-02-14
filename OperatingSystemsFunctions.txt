@@ -1,0 +1,2 @@
+An operating sytem's function is to run applications. It does this by saving information onto it's memory so that you can customize the app. 
+When you open it again, it saves your progress. 
