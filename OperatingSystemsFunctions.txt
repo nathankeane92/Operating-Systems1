@@ -3,3 +3,6 @@ When you open it again, it saves your progress.
 Another function of an operating system could be to run an application like a camera.
 It uses the hardware on the phone to input data from that hardware.
 That hardware is a camera, inputting data such as pictures onto the system..
+A third function of an OS is to save files. 
+You can input files by using a keyboard and writing notes and saving a picutre you took with the camera.
+It saves it to memory, and pulls up the file, with the notes and pictures saved, and also your app preferences saved. 
